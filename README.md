@@ -1,2 +1,2 @@
 # UNI-Shortcut-Key
-Shortcut key program to use only “POWERPOINT” more quickly and conveniently
+Shortcut key program to use only “POWERPOINT” more quickly
